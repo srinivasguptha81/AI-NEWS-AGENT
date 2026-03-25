@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-fastapi
-uvicorn
-requests
-transformers
-torch
-streamlit
-=======
 streamlit==1.39.0
 fastapi==0.115.0
 uvicorn==0.30.0
@@ -17,4 +9,3 @@ tiktoken>=0.7.0
 numpy>=1.26.0
 pandas>=2.2.0
 
->>>>>>> faefded (Initial commit)
