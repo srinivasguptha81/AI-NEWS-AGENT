@@ -1,11 +1,6 @@
-streamlit==1.39.0
-fastapi==0.115.0
-uvicorn==0.30.0
-requests==2.32.3
-transformers==4.45.1
-torch>=2.0.0
-sentencepiece>=0.1.99
-tiktoken>=0.7.0
-numpy>=1.26.0
-pandas>=2.2.0
-
+streamlit
+requests
+fastapi
+uvicorn
+beautifulsoup4
+openai
