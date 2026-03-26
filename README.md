@@ -8,7 +8,7 @@ Built with **FastAPI**, **Streamlit**, **HuggingFace Transformers**, and **GNews
 ## 🚀 Features
 - 🔎 Fetch news based on **location**, **date range**, and **category**
 - ✍️ **Custom query** option (e.g., "earthquake in Turkey")
-- 🧠 **Summarization** using DistilBART
+- 🧠 **Summarization** 
 - 😊 **Sentiment analysis** with emoji indicators
 - 💬 Interactive **chat-like UI** (Streamlit)
 - ⏳ Loading spinner for smooth UX
