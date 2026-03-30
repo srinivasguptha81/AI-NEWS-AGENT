@@ -33,7 +33,6 @@ cd AI-NEWS-AGENT
 
 # Create virtual env
 python -m venv venv
-source venv/bin/activate  # (Linux/Mac)
 venv\Scripts\activate     # (Windows)
 
 # Install dependencies
